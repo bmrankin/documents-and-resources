@@ -82,7 +82,7 @@ My definition of a meeting includes an agenda and/or intended purpose, the appro
 
 **Humans bringing a problem without a solution strategy** are a trigger for me. I am not interested in helping with a problem when no effort has been taken by the bearer. You may not have a solution but should have thought about possible solutions at least enough to know they won't work.
 
-**This document is a [living breathing thing](https://github.com/randsleadershipslack/documents-and-resources/blob/master/howtorands.md)** and likely incomplete. I  update it frequently and would appreciate your feedback. 
+**This document is a [living breathing thing](https://github.com/bmrankin/documents-and-resources/blob/master/ManagerREADME.md)** and likely incomplete. I  update it frequently and would appreciate your feedback. 
 
 I also stole the idea from [Rands](https://github.com/randsleadershipslack/documents-and-resources/blob/master/howtorands.md), so go steal and make your own version. It is a great exercise in personal reflection.
 
