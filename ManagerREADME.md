@@ -9,7 +9,7 @@ We’ll have a 1:1 every week for at least 30 minutes except during HIGH ALERT (
 
 We’ll have a staff meeting with your peers every week for 60 minutes no matter what. We have a shared soapbox agenda which captures agenda topics for the entire team. This is an overview of status and direction. Agenda topics that require a deeper dive are scheduled for other times with those that need to be present.
 
-You can Slack me 24 hours a day. I tend to respond as quickly as possible. Times were response is slower
+You can Slack me 24 hours a day. I tend to respond as quickly as possible. Times where response is slower
 - When I am with my family (Weekends, meals)
 - Driving to/from the office
 - Vacation
@@ -30,9 +30,9 @@ I take vacations. You should, too. Disconnected from work is when I do some of m
 
 **I heavily bias towards action.** Long meetings where we are endlessly debating potential directions are often valuable, but I believe starting is the best way to begin learning and make progress. This is not always the correct strategy. This strategy annoys those who like to debate.
 
-**Once a decision is reached it is acted upon** Reaching a decision takes time. Starting should not. If there was a discussion you are a part of and a decision is made go with it. If you don't like it or agree, that is fine. THere are many decisions I do not like or agree. This is human. Make them known. Do not bring your dissent up later just because.
+**Once a decision is reached, it is acted upon** Reaching a decision takes time. Starting should not. If there was a discussion you are a part of and a decision is made go with it. If you don't like it or agree, that is fine. THere are many decisions I do not like or agree. This is human. Make them known. Do not bring your dissent up later just because.
 
-**Once a decision is determined to be the wrong one... Stop. Evaulate. Alter.** Sometimes a decision is wrong. That is fine. Own it and evaluate. Trust me I currently hold the record for decisions that don't work on this team.
+**Once a decision is determined to be the wrong one... Stop. Evaluate. Alter.** Sometimes a decision is wrong. That is fine. Own it and evaluate. Trust me I currently hold the record for decisions that don't work on this team.
 
 **I believe in the compounding awesomeness of continually fixing small things.** I believe quality assurance is everyone’s responsibility and there are bugs to be fixed everywhere… all the time.
 
@@ -66,7 +66,7 @@ My definition of a meeting includes an agenda and/or intended purpose, the appro
 
 **When I ask you to do something that feels poorly defined** you should ask me for both clarification and a call on importance. I might still be brainstorming. These questions can save everyone a lot of time.
 
-**Ask assertive versus tell assertive.** When you need to ask me to do something, ask me. I respond incredibly well to ask assertiveness (“Rands, can you help with X?”). I respond poorly to being told what to do (“Rands, do X.”) I have been this way since I was a kid.
+**Ask assertive versus tell assertive.** When you need to ask me to do something, ask me. I respond incredibly well to ask assertiveness (“Bryan, can you help with X?”). I respond poorly to being told what to do (“Bryan, do X.”) I have been this way since I was a kid.
 
 **I struggle with impatience and jumping ahead when looking at strategies** for planning or problem solving. It is not that I think I know more than you. I just have been looking at the problem or have other context that I forget you don't have. It is a jerk move and I am working on it. Call it out or ask for the context.
 
@@ -74,7 +74,10 @@ My definition of a meeting includes an agenda and/or intended purpose, the appro
 
 **I love to start new things** but I often move on when someone else is doing the work and I can mentally see how the thing is going to finish which might be weeks or month before the thing is actually done. Sorry. I’m getting better at this. If you have questions or need me to reengage just say so.
 
-**If I am on my phone during a meeting for more than 30 seconds, say something.** My attention wanders periodically.
+**Phones in meetings**
+If I am on my phone during a meeting for more than 10 seconds, say something. My attention wanders periodically. If I do it more than once, there is probably something going on and I thought I told you that I will need to watch it.
+
+If you are on your phone more than 10 seconds * 2 times. Let me know that you need to keep an eye on something or I will say something... or say nothing.
 
 **I believe in solving the smallest problem possible when a challenge is presented and there are no obvious solutions** Sometimes this is faster. Sometimes this is slower. If we are stuck and time is of the essence this is my default mode. Build on what works and cut the noise back to the point something does work.
 
